@@ -7,4 +7,4 @@ E-waste has now taken on a global dimension and is also relevant for small count
 
 As in a laboratory, we take two comparable variables to experiment with. On a macro level, we look at the connection between Liechtenstein and Agbogbloshie (the largest electronic waste dump in Africa) and the changes in structures due to the reduction of e-waste - spatial as well as social. On a micro level, we look at the details of people's everyday lives once confronted with the issue. 
 
-For the exhibition, research questions are to be answered and data collection carried out in Ghana and in Liechtenstein through various activities in the University of Lichtenstein. Scientific methods for data collection, analysis, evaluation, and visualization of the results are taught. 
+For the exhibition, research questions are to be answered and data collection carried out in Ghana and in Liechtenstein through various activities in the University of Lichtenstein. Scientific methods for data collection, analysis, evaluation, and visualization of the results are taught. """
